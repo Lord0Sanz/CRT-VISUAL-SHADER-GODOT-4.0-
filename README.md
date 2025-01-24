@@ -75,5 +75,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Special thanks to the Godot Engine community for their support and resources.
 
 ---
-
-Enjoy creating retro-style visuals with this CRT shader! If you have any questions or need further assistance, feel free to reach out.
